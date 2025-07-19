@@ -1,0 +1,104 @@
+{
+  "node": {
+    "7f242e7ea905a8dc9d2da24f9e149b6ff779d9882b": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    },
+    "402f3dfb46d3c945246504f34a5ea6ce51b33cf530": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    },
+    "409e5ad48eb997a98fca6799042658673603470dcb": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    },
+    "409ff24b5a226a48a885dc2ed4d5fdae8e230b35b8": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    },
+    "003c38c786f479816960b13d9cc1cc38ce1a4ff0c6": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    },
+    "7fc68a6a9a5af732c89679efdbfc7867e2bca50904": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    },
+    "7fe1eaf53a02fd4e431f40acb556bb244590bea70a": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    },
+    "003b4417bea7217c72ccbae7aeb067968059ac43fa": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    },
+    "7f40cfbd078047d27a88386f3487a0d2ffecdbb010": {
+      "workers": {
+        "app/(main)/saved-cars/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/saved-cars/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/car-listing.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/saved-cars/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

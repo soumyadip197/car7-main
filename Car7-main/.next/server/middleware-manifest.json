@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/_9ee903._.js",
+        "server/edge/chunks/node_modules_@bufbuild_protobuf_dist_esm_354f38._.js",
+        "server/edge/chunks/node_modules_@arcjet_protocol_9014fd._.js",
+        "server/edge/chunks/node_modules_@connectrpc_connect_dist_esm_2b2029._.js",
+        "server/edge/chunks/node_modules_@clerk_backend_dist_6903ca._.js",
+        "server/edge/chunks/node_modules_b033ac._.js",
+        "server/edge/chunks/[root of the server]__28202e._.js",
+        "server/edge/chunks/edge-wrapper_05dd88.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/((?!_next|[^?]*\\.(?:html?|css|js(?!on)|jpe?g|webp|png|gif|svg|ttf|woff2?|ico|csv|docx?|xlsx?|zip|webmanifest)).*))(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/((?!_next|[^?]*\\.(?:html?|css|js(?!on)|jpe?g|webp|png|gif|svg|ttf|woff2?|ico|csv|docx?|xlsx?|zip|webmanifest)).*)"
+        },
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/(api|trpc))(.*)(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/(api|trpc)(.*)"
+        }
+      ],
+      "wasm": [
+        {
+          "name": "wasm_dd92d_modules__arcjet_analyze_wasm_wasm_arcjet_analyze_js_req_component_core_325b98",
+          "filePath": "server/edge/chunks/dd92d_modules_@arcjet_analyze-wasm_wasm_arcjet_analyze_js_req_component_core_325b98.wasm"
+        },
+        {
+          "name": "wasm_dd92d_modules__arcjet_analyze_wasm_wasm_arcjet_analyze_js_req_component_core2_325b98",
+          "filePath": "server/edge/chunks/dd92d_modules_@arcjet_analyze-wasm_wasm_arcjet_analyze_js_req_component_core2_325b98.wasm"
+        },
+        {
+          "name": "wasm_dd92d_modules__arcjet_analyze_wasm_wasm_arcjet_analyze_js_req_component_core3_325b98",
+          "filePath": "server/edge/chunks/dd92d_modules_@arcjet_analyze-wasm_wasm_arcjet_analyze_js_req_component_core3_325b98.wasm"
+        }
+      ],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "JqTZx2c5KBqdugBxAUYdSU8k+2bipLntCnuoJV8WtVk=",
+        "__NEXT_PREVIEW_MODE_ID": "ef0c516489690781586f26bd37c31181",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "48be294f88b5f9ea6629df873c18d50bdce9bbb5aab38b9230c84eac698084ef",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "6569f92434f5a30a932082b6f4c033107380bdd2623b0c5bd94747e15c8f7d7e"
+      }
+    }
+  },
+  "sortedMiddleware": [
+    "/"
+  ],
+  "functions": {}
+}

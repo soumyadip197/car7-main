@@ -1,0 +1,148 @@
+{
+  "node": {
+    "405eab820151c12d016737e32152b411d3d2b8ac7b": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    },
+    "40acebde53060b07387f1038460ae8f180db3f9043": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    },
+    "60bcdbabc95c0fda78af042d4ab7ab52bed5255efd": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    },
+    "0042c260dd26602ba723f3a47a1497a2d2e62c173e": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "rsc"
+      }
+    },
+    "7fc68a6a9a5af732c89679efdbfc7867e2bca50904": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    },
+    "7f242e7ea905a8dc9d2da24f9e149b6ff779d9882b": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    },
+    "60bb797054d467fbefc3f47efa291ab09b2ed41d52": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "rsc"
+      }
+    },
+    "4094d2ade626770caa7c6485ca2dc10dd97b6914ad": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "rsc"
+      }
+    },
+    "7f40cfbd078047d27a88386f3487a0d2ffecdbb010": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    },
+    "40ffe9d42eefe74fa34c85a5801b65b0e82054a877": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    },
+    "40757bf29cf4d34275d43c79b1ab77148b7d0ae8c9": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    },
+    "0079a26b7634242be91f0ebd948387d678bd6129bf": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "rsc"
+      }
+    },
+    "7fe1eaf53a02fd4e431f40acb556bb244590bea70a": {
+      "workers": {
+        "app/(admin)/admin/cars/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(admin)/admin/cars/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/cars.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(admin)/admin/cars/create/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
